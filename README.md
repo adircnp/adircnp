@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Adir Gomes junior</h1>
+<h1 align="center">oi 👋, Adir Gomes junior aqui</h1>
 <h3 align="center">Um cientista de dados, Amante de gatos e cozinheiro</h3>
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 Atualmente estudando **Machine learning**
 
-- 💬 Ask me about **Economia e filosofia que eu terei prazer em ajudar**
+- 💬 me pergunte sobre **Economia e filosofia que eu terei prazer em ajudar**
 
-- 📫 How to reach me **adirgomes1@gmail.com**
+- 📫 como me encontrar**adirgomes1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
