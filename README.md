@@ -5,7 +5,7 @@
 
 - 💬 me pergunte sobre **Economia e filosofia que eu terei prazer em ajudar**
 
-- 📫 como me encontrar**adirgomes1@gmail.com**
+- 📫 como me encontrar **adirgomes1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
